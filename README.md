@@ -1,4 +1,4 @@
-1st on [codeHawks](https://www.codehawks.com/leaderboard)
+1st on [codeHawks](https://www.codehawks.com/leaderboard) 2024
 ## Competitions
 
 | Competition          | Date          | Ranking | Findings                                           | Links of interest                                                                    |
