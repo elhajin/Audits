@@ -13,6 +13,12 @@
 
 <br>
 
+## Private Competitions
+
+| Competition          | Date          | Ranking | Findings                                           | Links of interest                                                                    |
+| -------------------- | ------------- | ------- | -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+|[PossumLabs-V2](https://www.possumlabs.io/)   | Mar 11, 2024 | **2th** 🥈| N/A | [report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)|
+|[Wromhole-NTT](https://wormhole.com/native-token-transfers/)  | mar 27, 2024 | **4th** | N/A | N/A | 
 ### Reach out :
 
 - [portfolio](https://elhajin.vercel.app/)
