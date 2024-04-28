@@ -22,7 +22,7 @@
 |[Wromhole-NTT](https://wormhole.com/native-token-transfers/)  | mar 27, 2024 | **4th** | N/A | N/A | 
 ### Reach out :
 
-- [portfolio](https://elhajin.vercel.app/)
+- [portfolio](https://elhaj.tech/)
 - [telegram](https://t.me/elhajin)
 - [twitter](https://twitter.com/el_hajin)
 
