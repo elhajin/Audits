@@ -23,6 +23,10 @@
 |[PossumLabs-Portals](https://www.possumlabs.io/)   | Mar 11, 2024 | **2th** 🥈| N/A | [LINK](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)|
 |[Wromhole-NTT](https://wormhole.com/native-token-transfers/)  | mar 27, 2024 | **4th** | N/A |[LINK](https://cantina.xyz/leaderboard)| 
 
+## C4 Pro League : 
+| Engagements          | Date          | Findings                                             |
+| -------------------- | ------------- |  --------------------------------------------------  |
+|[SOFA](https://www.sofa.org/)  | MAY 13, 2024  |[LINK](https://code4rena.com/reports/2024-05-sofa-pro-league)| 
 ### Reach out :
 
 - [portfolio](https://elhaj.tech/)
