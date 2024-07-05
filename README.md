@@ -11,6 +11,8 @@
 | [cantina](https://cantina.xyz/) ZeroLand | Jan 25, 2024 | **1st** 🥇 | [ZeroLand](./public-contests/ElHaj-ZeroLand.md) | [Leaderboard](https://cantina.xyz/leaderboard/a83eaf73-9cbc-495f-8607-e55d4fdaf407) |
 |[Sherlock](https://audits.sherlock.xyz/contests/247) Exactly-Protocol | Apr 22, 2024 | **11** | N/A |[Leaderboard](https://audits.sherlock.xyz/contests/247/leaderboard) |
 |[cantina](https://cantina.xyz/) Op-Safe-Extensions  | May 06,2024  |**7** |[safe-extensions](https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2024_05_SafeLivenessExtensions-Cantina.pdf)  |[Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)|
+|[Sherlock](https://audits.sherlock.xyz/contests/247) PoolTogether | Jun 06, 2024 | **4th** |[PoolTogether](https://audits.sherlock.xyz/contests/225/report) |[Leaderboard](https://audits.sherlock.xyz/contests/225/leaderboard) |
+
 
 
 
