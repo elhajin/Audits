@@ -12,7 +12,7 @@
 |[Sherlock](https://audits.sherlock.xyz/contests/247) Exactly-Protocol | Apr 22, 2024 | **11** | N/A |[Leaderboard](https://audits.sherlock.xyz/contests/247/leaderboard) |
 |[cantina](https://cantina.xyz/) Op-Safe-Extensions  | May 06,2024  |**7** |[safe-extensions](https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2024_05_SafeLivenessExtensions-Cantina.pdf)  |[Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)|
 |[Sherlock](https://audits.sherlock.xyz/contests/247) PoolTogether | Jun 06, 2024 | **4th** |[PoolTogether](https://audits.sherlock.xyz/contests/225/report) |[Leaderboard](https://audits.sherlock.xyz/contests/225/leaderboard) |
-
+|[code4arena](https://code4rena.com/) sizeCredit | July 06, 2024 | **4th** |[size](https://code4rena.com/audits/2024-06-size#top) |[Leaderboard](https://code4rena.com/audits/2024-06-size#top) |
 
 
 
