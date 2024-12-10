@@ -21,6 +21,7 @@
 | -------------------- | ------------- | ------- | ----------- | ------------ |
 | Sherlock            | ZeroLend One  | **1st** 🥇 | 11H, 11M  | Lending      |
 | Immunefi            | Folks-Finance #2 | **1st** 🥇 | 1H      | Lending      |
+| Sherlock            | Extra-finance |  **1st** 🥇 | 1H,2M    | Lending      |
 | Immunefi            | Folks-Finance | **2nd** 🥈 | 4H, 3M    | Lending      |
 | Sherlock            | Sentiment     | **7th**    | 9M, 1H    | Lending      |
 | CodeHawks           | Chainlink-CCIP| **7th**    | 1M        | Cross-Chain  |
