@@ -13,6 +13,9 @@
 | [cantina](https://cantina.xyz/) Op-Safe-Extensions  | May 06,2024  |**7** |[safe-extensions](https://github.com/ethereum-optimism/optimism/blob/develop/docs/security-reviews/2024_05_SafeLivenessExtensions-Cantina.pdf)  |[Leaderboard](https://cantina.xyz/leaderboard/d47f8096-8858-437d-a9f5-2fe85ac9b95e)|
 | [Sherlock](https://audits.sherlock.xyz/contests/247) Exactly-Protocol | Apr 22, 2024 | **11** | N/A |[Leaderboard](https://audits.sherlock.xyz/contests/247/leaderboard) |
 | [codeHawks](https://www.codehawks.com/) The standard | Jan 10, 2024| **15** | [The-standard](./public-contests/ElHaj-The-standard.md)|[Leaderboard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)|
+| [cantina](https://cantina.xyz/) Story | Pending |
+| [cantina](https://cantina.xyz/) EigenLayer | Pending|
+
 
 
 ## [a2Security](https://a2sec.io/) Public Competitions
