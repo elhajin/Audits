@@ -43,10 +43,10 @@
 |[3DNS](https://3dns.box/)  | mar 01, 2024 | **5th** | N/A |[LINK](https://cantina.xyz/leaderboard)| 
 
 ## Private Engaments : 
-| Engagements          | Findings                                             |
-| -------------------- |--------------------------------------------------  |
-|[SOFA](https://www.sofa.org/)  | [LINK](https://code4rena.com/reports/2024-05-sofa-pro-league)| 
-| [Size-Credit](https://www.size.credit/)  | [LINK](https://github.com/SizeCredit/size-solidity/blob/main/audits/2025-06-14-Cantina.pdf)| 
+| Engagements  |protocol        | Findings                                             |
+|-----------| -------------------- |--------------------------------------------------  |
+|Code4rena ProLeagu|[SOFA](https://www.sofa.org/)  | [LINK](https://code4rena.com/reports/2024-05-sofa-pro-league)| 
+|Spearbit | [Size-Credit](https://www.size.credit/)  | [LINK](https://github.com/SizeCredit/size-solidity/blob/main/audits/2025-06-14-Cantina.pdf)| 
 
 
 ### Reach out :
